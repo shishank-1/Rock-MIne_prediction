@@ -1,1 +1,1 @@
-# Rock-MIne_prediction
+# Rock-Mine_prediction
